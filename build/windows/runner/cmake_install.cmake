@@ -1,4 +1,4 @@
-# Install script for directory: C:/dev/br.com.allc/mobile/flutter-imc/windows/runner
+# Install script for directory: D:/dev/br.com.allc/mobile/flutter-imc/windows/runner
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

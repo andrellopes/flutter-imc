@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\dev\\br.com.allc\\mobile\\flutter-imc\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\dev\\br.com.allc\\mobile\\flutter-imc\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\andre\\.gradle\\caches\\transforms-2\\files-2.1\\d67cd79abd1ca209502f51c69d23182b\\core-1.1.0\\res\\values\\values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\dev\\br.com.allc\\mobile\\flutter-imc\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\dev\\br.com.allc\\mobile\\flutter-imc\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

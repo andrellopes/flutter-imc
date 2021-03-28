@@ -1,6 +1,6 @@
-^C:\DEV\BR.COM.ALLC\MOBILE\FLUTTER-IMC\BUILD\WINDOWS\CMAKEFILES\8F9637EC18FA91E4350042805AE0E3CF\FLUTTER_WINDOWS.DLL.RULE
+^D:\DEV\BR.COM.ALLC\MOBILE\FLUTTER-IMC\BUILD\WINDOWS\CMAKEFILES\0FFB262BC8FCC9F51ACE05BB839234BB\FLUTTER_WINDOWS.DLL.RULE
 setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter PROJECT_DIR=C:\dev\br.com.allc\mobile\flutter-imc FLUTTER_ROOT=C:\src\flutter FLUTTER_EPHEMERAL_DIR=C:\dev\br.com.allc\mobile\flutter-imc\windows\flutter\ephemeral PROJECT_DIR=C:\dev\br.com.allc\mobile\flutter-imc FLUTTER_TARGET=C:\dev\br.com.allc\mobile\flutter-imc\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\dev\br.com.allc\mobile\flutter-imc\.dart_tool\package_config.json C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=D:\src\flutter PROJECT_DIR=D:\dev\br.com.allc\mobile\flutter-imc FLUTTER_ROOT=D:\src\flutter FLUTTER_EPHEMERAL_DIR=D:\dev\br.com.allc\mobile\flutter-imc\windows\flutter\ephemeral PROJECT_DIR=D:\dev\br.com.allc\mobile\flutter-imc FLUTTER_TARGET=D:\dev\br.com.allc\mobile\flutter-imc\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\dev\br.com.allc\mobile\flutter-imc\.dart_tool\package_config.json D:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
@@ -8,7 +8,7 @@ endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
-^C:\DEV\BR.COM.ALLC\MOBILE\FLUTTER-IMC\BUILD\WINDOWS\CMAKEFILES\F810264512FA685C7C750D961E8A02EB\FLUTTER_ASSEMBLE.RULE
+^D:\DEV\BR.COM.ALLC\MOBILE\FLUTTER-IMC\BUILD\WINDOWS\CMAKEFILES\0CE626679E3EEAD83C1D3674E42EF64E\FLUTTER_ASSEMBLE.RULE
 setlocal
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
@@ -16,9 +16,9 @@ endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
-^C:\DEV\BR.COM.ALLC\MOBILE\FLUTTER-IMC\WINDOWS\FLUTTER\CMAKELISTS.TXT
+^D:\DEV\BR.COM.ALLC\MOBILE\FLUTTER-IMC\WINDOWS\FLUTTER\CMAKELISTS.TXT
 setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/dev/br.com.allc/mobile/flutter-imc/windows -BC:/dev/br.com.allc/mobile/flutter-imc/build/windows --check-stamp-file C:/dev/br.com.allc/mobile/flutter-imc/build/windows/flutter/CMakeFiles/generate.stamp
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/dev/br.com.allc/mobile/flutter-imc/windows -BD:/dev/br.com.allc/mobile/flutter-imc/build/windows --check-stamp-file D:/dev/br.com.allc/mobile/flutter-imc/build/windows/flutter/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
