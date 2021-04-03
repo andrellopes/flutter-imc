@@ -54140,7 +54140,7 @@ else if(p>=34.9&&p<39.9)s.r="Obesidade Grau II ("+C.M.lq(p,4)+")"
 else if(p>=40)s.r="Obesidade Grau III ("+C.M.lq(p,4)+")"},
 $S:3}
 F.Y_.prototype={
-$1:function(a){if(a.length===0)return"Insira seu Peso!"},
+$1:function(a){if(a.length===0)return"Insira seu Peso !"},
 $S:113}
 F.Y0.prototype={
 $1:function(a){if(a.length===0)return"Insira sua Altura!"},
