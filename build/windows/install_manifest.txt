@@ -1,8 +1,0 @@
-D:/dev/br.com.allc/mobile/flutter-imc/build/windows/runner/Debug/data/icudtl.dat
-D:/dev/br.com.allc/mobile/flutter-imc/build/windows/runner/Debug/flutter_windows.dll
-D:/dev/br.com.allc/mobile/flutter-imc/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
-D:/dev/br.com.allc/mobile/flutter-imc/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
-D:/dev/br.com.allc/mobile/flutter-imc/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
-D:/dev/br.com.allc/mobile/flutter-imc/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
-D:/dev/br.com.allc/mobile/flutter-imc/build/windows/runner/Debug/data/flutter_assets/NOTICES
-D:/dev/br.com.allc/mobile/flutter-imc/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

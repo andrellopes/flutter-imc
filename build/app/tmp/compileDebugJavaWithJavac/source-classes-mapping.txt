@@ -1,6 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-br/com/allc/imc/MainActivity.java
- br.com.allc.imc.MainActivity
-br/com/allc/imc/BuildConfig.java
- br.com.allc.imc.BuildConfig
