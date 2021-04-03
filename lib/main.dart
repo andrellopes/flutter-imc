@@ -82,7 +82,7 @@ class _HomeState extends State<Home> {
                 controller: weightController,
                 validator: (value) {
                   if (value.isEmpty) {
-                    return "Insira seu Peso!";
+                    return "Insira seu Peso !";
                   }
                 },
               ),
