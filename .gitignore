@@ -15,8 +15,8 @@
 *.iws
 .idea/
 
-/build/*
-!/build/Web/
+build/
+!build/Web/
 
 
 # The .vscode folder contains launch configuration and tasks you configure in
